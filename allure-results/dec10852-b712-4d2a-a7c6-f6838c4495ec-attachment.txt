@@ -1,0 +1,4 @@
+Error checking success message: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('.alert-success') to be visible
+

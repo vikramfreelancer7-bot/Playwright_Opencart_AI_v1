@@ -1,0 +1,68 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - navigation [ref=f1e3]:
+      - list [ref=f1e4]:
+        - listitem [ref=f1e5]:
+          - heading [level=1] [ref=f1e6]:
+            - link "Apache Friends" [ref=f1e7] [cursor=pointer]:
+              - /url: /dashboard/index.html
+      - list [ref=f1e8]:
+        - listitem [ref=f1e9]:
+          - link "FAQs" [ref=f1e10] [cursor=pointer]:
+            - /url: /dashboard/faq.html
+        - listitem [ref=f1e11]:
+          - link "HOW-TO Guides" [ref=f1e12] [cursor=pointer]:
+            - /url: /dashboard/howto.html
+        - listitem [ref=f1e13]:
+          - link "PHPInfo" [ref=f1e14] [cursor=pointer]:
+            - /url: /dashboard/phpinfo.php
+        - listitem [ref=f1e15]:
+          - link "phpMyAdmin" [ref=f1e16] [cursor=pointer]:
+            - /url: /phpmyadmin/
+  - generic [ref=f1e17]:
+    - heading "XAMPP Apache + MariaDB + PHP + Perl" [level=1] [ref=f1e21]
+    - heading "Welcome to XAMPP for Windows 8.2.12" [level=2] [ref=f1e25]
+    - generic [ref=f1e27]:
+      - paragraph [ref=f1e28]:
+        - text: You have successfully installed XAMPP on this system! Now you can start using Apache, MariaDB, PHP and other components. You can find more info in the
+        - link "FAQs" [ref=f1e29] [cursor=pointer]:
+          - /url: /dashboard/faq.html
+        - text: section or check the
+        - link "HOW-TO Guides" [ref=f1e30] [cursor=pointer]:
+          - /url: /dashboard/howto.html
+        - text: for getting started with PHP applications.
+      - paragraph [ref=f1e31]: XAMPP is meant only for development purposes. It has certain configuration settings that make it easy to develop locally but that are insecure if you want to have your installation accessible to others.
+      - paragraph [ref=f1e32]: Start the XAMPP Control Panel to check the server status.
+    - heading "Community" [level=3] [ref=f1e35]
+    - paragraph [ref=f1e38]:
+      - text: XAMPP has been around for more than 10 years – there is a huge community behind it. You can get involved by joining our
+      - link "Forums" [ref=f1e39] [cursor=pointer]:
+        - /url: https://community.apachefriends.org
+      - text: ", liking us on"
+      - link "Facebook" [ref=f1e40] [cursor=pointer]:
+        - /url: https://www.facebook.com/we.are.xampp
+      - text: ", or following our exploits on"
+      - link "Twitter" [ref=f1e41] [cursor=pointer]:
+        - /url: https://twitter.com/apachefriends
+      - text: .
+  - contentinfo [ref=f1e42]:
+    - generic [ref=f1e44]:
+      - generic [ref=f1e45]:
+        - list [ref=f1e46]:
+          - listitem [ref=f1e47]:
+            - link "Follow us on Twitter" [ref=f1e48] [cursor=pointer]:
+              - /url: https://twitter.com/apachefriends
+          - listitem [ref=f1e49]:
+            - link "Like us on Facebook" [ref=f1e50] [cursor=pointer]:
+              - /url: https://www.facebook.com/we.are.xampp
+        - paragraph [ref=f1e51]: Copyright (c) 2022, Apache Friends
+      - list [ref=f1e52]:
+        - listitem [ref=f1e53]:
+          - link "Blog" [ref=f1e54] [cursor=pointer]:
+            - /url: https://www.apachefriends.org/blog.html
+        - listitem [ref=f1e55]:
+          - link "Privacy Policy" [ref=f1e56] [cursor=pointer]:
+            - /url: /privacy_policy.html
+        - listitem [ref=f1e57]:
+          - link "CDN provided by" [ref=f1e58] [cursor=pointer]:
+            - /url: http://www.fastly.com/
